@@ -518,16 +518,16 @@ dropdown
     font-weight: lighter;
 }
 
-.biosharing_link {
+.fairsharing_link {
     display: block;
     text-indent: -9999px;
     background: url('../img/front-page/project-logos-sprite.png') no-repeat left top;
-    width: 62px;
+    width: 124px;
     height: 23px;
     margin: 0 5px 0 0;
 }
 
-.biosharing_link:hover {
+.fairsharing_link:hover {
     background-position: left bottom;
 }
 
